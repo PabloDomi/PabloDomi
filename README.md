@@ -9,7 +9,7 @@ My goal is to continue learning and growing as a developer, exploring new techno
 If you have any questions or need assistance with a project, feel free to reach out. I would be happy to collaborate with you.
 
 ## 🛠️ Skills
-- Programming Languages: [Java: ☕️
+- Programming Languages: Java: ☕️
 JavaScript: 🚀
 Python: 🐍
 Git: 🌳
@@ -18,18 +18,18 @@ C#: 🎯
 C: 🧊
 HTML: 🌐
 CSS: 🎨]
-- Frameworks: [React: ⚛️
+- Frameworks: React: ⚛️
 Flask: 🌶️
 Bootstrap: 🅱️
-SQLAlchemy: 🐍🛠️]
-- Tools: [Visual Studio Code: 🧰
+SQLAlchemy: 🐍🛠️
+- Tools: Visual Studio Code: 🧰
 Visual Studio 2019: 💻
 GitHub: 🐙
 Slack: 💬
-Eclipse: 🌒]
-- Databases: [MySQL: 🐬
-PostgreSQL: 🐘]
-- Other: [English B2 level: 🇬🇧🔹]
+Eclipse: 🌒
+- Databases: MySQL: 🐬
+PostgreSQL: 🐘
+- Other: English B2 level: 🇬🇧🔹
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloDomi&show_icons=true&theme=radical)
