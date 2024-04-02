@@ -32,7 +32,7 @@ PostgreSQL: 🐘]
 - Other: [English B2 level: 🇬🇧🔹]
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[PabloDomi]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloDomi&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
 - Email: [Email: Domi@usal.es]
